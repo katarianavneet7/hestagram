@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 const session = require('express-session');
 
 
-//const ip="http://ankit-intern.hestalabs.com";
+//const ip="http://navneet-intern.hestagram.com";
  const ip='http://localhost:3000'
 // Add headers
 app.use(function (req, res, next) {
