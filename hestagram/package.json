@@ -6,7 +6,7 @@
     "async": "^2.6.0",
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "cropperjs": "^1.3.5",
     "emoji-picker-react": "^2.0.4",
     "fetch-defaults": "^1.0.0",
